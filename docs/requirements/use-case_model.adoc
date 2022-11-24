@@ -19,7 +19,7 @@ include::../_includes/default-attributes.inc.adoc[]
 ** *UC05*: Produkt aus Warenkorb entfernen
 ** *UC06*: Lieferadresse eingeben
 
-*Mitarbeiter
+* Mitarbeiter
 ** *UC01*: Produkt hinzufügen
 ** *UC02*: Beschreibung hinzufügen
 ** *UC03*: Bestellung bearbeiten
