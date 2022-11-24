@@ -14,10 +14,15 @@ include::../_includes/default-attributes.inc.adoc[]
 * Kunde
 ** *UC01*: Verkauf abwickeln
 ** *UC02*: Produkt auswählen
-** *UC03*: Produkt in Warenkorb
+** *UC03*: Produkt in Warenkorb legen
 ** *UC04*: Produkt suchen
 ** *UC05*: Produkt aus Warenkorb entfernen
 ** *UC06*: Lieferadresse eingeben
+
+*Mitarbeiter
+** *UC01*: Produkt hinzufügen
+** *UC02*: Beschreibung hinzufügen
+** *UC03*: Bestellung bearbeiten
 
 == Use Case Diagramm
 // ...
