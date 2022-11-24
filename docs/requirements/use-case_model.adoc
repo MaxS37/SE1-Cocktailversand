@@ -24,6 +24,12 @@ include::../_includes/default-attributes.inc.adoc[]
 ** *UC02*: Beschreibung hinzufügen
 ** *UC03*: Bestellung bearbeiten
 
+* Administration
+** *UC01*: Produkt hinzufügen
+** *UC02*: Beschreibung hinzufügen
+** *UC03*: Bestellung bearbeiten
+
+
 == Use Case Diagramm
 // ...
 
