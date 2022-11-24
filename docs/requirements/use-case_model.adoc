@@ -11,9 +11,12 @@ include::../_includes/default-attributes.inc.adoc[]
 
 == Identifizierte Use Cases
 // Liste aller identifizierten Use Cases (priorisiert)
-* *UC01*: ...
-* *UC02*: ...
-
+* *UC01*: Verkauf abwickeln
+* *UC02*: Produkt auswählen
+* *UC03*: Produkt in Warenkorb
+* *UC04*: Produkt suchen
+* *UC05*: Produkt aus Warenkorb entfernen
+* *UC06*: Lieferadresse eingeben
 
 == Use Case Diagramm
 // ...
